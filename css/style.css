@@ -69,7 +69,9 @@ body{
   border-radius:150%;
   text-align:center;
 }
-
+a{
+  text-decoration:none !important;
+}
 
 .center-align{
   text-align:center;
